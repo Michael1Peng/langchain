@@ -1,0 +1,4 @@
+langchain-community==0.3.7
+langchain-openai==0.2.8
+langchain-chroma==0.1.4
+beautifulsoup4
